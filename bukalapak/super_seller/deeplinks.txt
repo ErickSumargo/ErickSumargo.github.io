@@ -1,0 +1,3 @@
+landing_page.jpeg = https://www.bukalapak.com/super-seller
+dashboard.jpeg = https://www.bukalapak.com/super-seller/status
+bonus.jpeg = https://www.bukalapak.com/super-seller/gift
